@@ -1,0 +1,40 @@
+/*
+@Autor: Leticia
+ */
+
+body{
+    text-align: center;
+    margin-left: 40px;
+    color: #a0d799;
+}
+
+header{
+    text-align: center;
+    font-family: "Arial"
+    color: rgba(56, 199, 14, 0.84);
+    font-size: 85px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    font-family: "Roboto";
+    font-size: 21px;
+    color: rgba(56, 199, 14, 0.84);
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+h2{
+    font-family: "Roboto";
+    font-size: 21px;
+    color: rgba(56, 199, 14, 0.84);
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+img{
+    width: 700px;
+}
